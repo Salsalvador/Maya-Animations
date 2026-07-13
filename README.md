@@ -2,7 +2,7 @@
 
 Esempi di animazioni. 
 
-**Progetto:** Remake dell'animazione introduttiva Pixar.
+**Progetto:** Remake della famosa animazione di intro dei film Pixar.
 **Software:** Autodesk Maya
 
 https://github.com/user-attachments/assets/f0692305-cd8c-44c1-8863-dee9db7093ef
