@@ -3,9 +3,11 @@
 Esempi di animazioni. 
 **Software:** Autodesk Maya
 
+
 Remake della famosa animazione di intro dei film Pixar.
 
 https://github.com/user-attachments/assets/f0692305-cd8c-44c1-8863-dee9db7093ef
+
 
 Animazione di test di braccia e pistola per un First Person Shooter.
 
